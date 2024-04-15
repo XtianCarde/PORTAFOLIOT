@@ -1,18 +1,18 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Cristian Velasquez | Portafolio",
+    "description": "Soy un apasionado de la industria del desarrollo, la ciberseguridad y todo lo relacionado a la informatica.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Cristian Camilo Velasquez Cardenas",
+    "skill": "Programador y hacker ético",
+    "location": "Medellín, Antioquia",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "tiancarvelasquez@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
+        "github": "https://github.com/XtianCarde",
         "likedin": "https://linkedin.com/in/thomasanderson"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Soy un programador backend dedico tiempo extra para mi formación autodidacta y por medio de cursos online, soy curioso e investigador, tengo capacidad para la resolución de problemas y el trabajo en equipo.Además estoy empezando en el mundo de la ciberseguridad y el hacking ético",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
