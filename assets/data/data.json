@@ -15,8 +15,8 @@
     "about": "Soy un programador backend,usualmente dedico tiempo extra para mi formación de manera autodidacta y por medio de cursos online, soy curioso e investigador, tengo capacidad para la resolución de problemas y el trabajo en equipo.Además estoy empezando en el mundo de la ciberseguridad y el hacking ético",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "icon": "devicon-java-plain",
+            "name": "Java"
         },
         {
             "icon": "devicon-devicon-plain",
